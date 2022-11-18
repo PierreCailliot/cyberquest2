@@ -1,0 +1,72 @@
+h2 {
+    text-align: center;
+}
+
+p1 {
+    display: flex;
+    justify-content: center;
+}   
+
+#profil-container {
+
+    display: flex;
+    justify-content: space-around;
+    background-color: #abbdff;
+}
+
+#profil-container2 {
+
+}
+ul,li{
+    list-style:none; /*Suppression des puces de la liste */
+  }
+  ul{
+    display: flex; /* Flex pour la mise en place des éléments */
+    flex-wrap: wrap; 
+    justify-content: center;
+  }
+  ul li a{
+    text-decoration:none; /* Suppression du surlignage sur les liens */
+    color:#000; /* Couleur des textes */
+    background:#ffc; /*Couleur jaune */
+    display:block;
+    height:10em; /* Hauteur d'une note */
+    width:10em; /* Largeur d'une note */
+    padding:1em; 
+  }
+  ul li{
+    margin:1em;
+  }
+  ul li a{
+    transform: rotate(-6deg);
+  }
+  ul li:nth-child(even) a{
+    transform:rotate(4deg); /* Inclinaison de 5° vers la droite */
+    position:relative;
+    top:7px;
+  }
+  ul li:nth-child(3n) a{
+    transform:rotate(-4deg); /* Inclinaison de 4° vers la gauche */
+    position:relative;
+    top:-3px;
+  }
+  ul li:nth-child(5n) a{
+    transform:rotate(3deg); /* Inclinaison de 3° vers la droite */
+    position:relative;
+    top:-10px;
+  }
+  ul li:nth-child(even) a{
+    position:relative;
+    top:7px;
+    background:#cfc; /* Couleur verte */
+  }
+  ul li:nth-child(3n) a{
+    position:relative;
+    top:-5px;
+    background:#ccf; /* Couleur mauve */
+  }
+  ul li:nth-child(4n) a{
+    position:relative;
+    top:-5px;
+    background:rgb(223, 86, 216); /* Couleur mauve */
+  }

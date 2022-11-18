@@ -1,0 +1,14 @@
+h2 {
+    color: #f33;
+    text-align: center;
+}
+
+p1 {
+    display: flex;
+    justify-content: center;
+}   
+
+.red {
+    color: #f33;
+}
+
