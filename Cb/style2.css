@@ -30,8 +30,8 @@ ul,li{
     color:#000; /* Couleur des textes */
     background:#ffc; /*Couleur jaune */
     display:block;
-    height:10em; /* Hauteur d'une note */
-    width:10em; /* Largeur d'une note */
+    height:15em; /* Hauteur d'une note */
+    width:15em; /* Largeur d'une note */
     padding:1em; 
   }
   ul li{
