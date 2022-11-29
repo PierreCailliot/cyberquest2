@@ -11,7 +11,7 @@
 <body>
     <div id="profil-container">
         <div class="flexItems1"><img src=""></div>
-        <div class="flexItems2">Bonjour Sandrine</div>
+        <div class="flexItems2">Bonjour Jeanne Done</div>
         <div class="flexItems3"><button>Deconnexion</button></div>
 
     </div> 
@@ -24,26 +24,30 @@
     <ul>
   <li>
     <a href="#">
-      <h2>Titre n°1</h2>
-      <p>Texte de la note</p>
+      <h2>projets</h2>
+      <p>lunette de soleil Noir démontable à l'infini, brevet à déposer au plus vite avant le 15 du mois</p>
     </a>
   </li>
   <li>
     <a href="#">
-      <h2>Titre n°2</h2>
-      <p>Texte de la note</p>
+      <h2>mes adresses mails</h2>
+      <p>jeannedOne@desmails.com jeannedone06@lescouriers.fr jeajeannnettedu6@faxrep.com jeanne.done@ecole.com</p>
     </a>
   </li>
   <li>
     <a href="#">
-      <h2>Titre n°3</h2>
-      <p>Texte de la note</p>
+      <h2>secrets</h2>
+      <p>klaxon</p>
+	  <p>orange</p>
+	  <p>bleu</p>
+	  <p>enTourer</p>
     </a>
   </li>
   <li>
     <a href="#">
-      <h2>Titre n°4</h2>
-      <p>Texte de la note</p>
+      <h2>offres d'Emploi</h2>
+      <p>4 réponses positives</p>
+	  <p>15 réponses négatives</p>
     </a>
   </li>
 </ul>
